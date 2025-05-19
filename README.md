@@ -13,6 +13,19 @@ CSV AI Analyst provides an intuitive interface for data analysis through convers
 - ⚡ **Fast Responses** - Powered by Llama 3.3 70B via Groq
 - 🎨 **Markdown Formatting** - Clean, readable responses
 
+## Similar Projects
+
+If you're interested in AI-powered document analysis, check out my [PDF Chat](https://peerlist.io/i_satyajit/project/pdfchat) project which uses RAG, Supabase, QdrantDB and more technologies for PDF document interaction.
+
+## Links
+
+- [Live Demo](https://csv-agent.vercel.app)
+- [Demo Video](https://drive.google.com/file/d/1UEgTQatD3Km8h2wonOytOt0KRQqRa5EX/view?usp=sharing)
+
+## Connect With Me
+
+For more AI and machine learning projects, visit my portfolio at [satyajitpatel.in](https://www.satyajitpatel.in).
+
 ## How to Run
 
 ### Prerequisites
@@ -48,19 +61,6 @@ CSV AI Analyst provides an intuitive interface for data analysis through convers
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-## Similar Projects
-
-If you're interested in AI-powered document analysis, check out my [PDF Chat](https://peerlist.io/i_satyajit/project/pdfchat) project which uses RAG, Supabase, QdrantDB and more technologies for PDF document interaction.
-
-## Links
-
-- [Live Demo](#) - Coming soon
-- [Demo Video](#) - Coming soon
-
-## Connect With Me
-
-For more AI and machine learning projects, visit my portfolio at [satyajitpatel.in](https://www.satyajitpatel.in).
 
 ## License
 
