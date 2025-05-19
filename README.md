@@ -2,6 +2,11 @@
 
 A streamlined web application that allows users to upload CSV files and interact with them using natural language queries, powered by AI.
 
+## Links
+
+- [Live Demo](https://csv-agent.vercel.app)
+- [Demo Video](https://drive.google.com/file/d/1UEgTQatD3Km8h2wonOytOt0KRQqRa5EX/view?usp=sharing)
+
 ## Overview
 
 CSV AI Analyst provides an intuitive interface for data analysis through conversation. Simply upload your CSV file and start asking questions about your data in plain English.
@@ -16,11 +21,6 @@ CSV AI Analyst provides an intuitive interface for data analysis through convers
 ## Similar Projects
 
 If you're interested in AI-powered document analysis, check out my [PDF Chat](https://peerlist.io/i_satyajit/project/pdfchat) project which uses RAG, Supabase, QdrantDB and more technologies for PDF document interaction.
-
-## Links
-
-- [Live Demo](https://csv-agent.vercel.app)
-- [Demo Video](https://drive.google.com/file/d/1UEgTQatD3Km8h2wonOytOt0KRQqRa5EX/view?usp=sharing)
 
 ## Connect With Me
 
